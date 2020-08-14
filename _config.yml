@@ -1,32 +1,32 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository: jinseokha/jinseokha.github.io
+# favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: 하진석
+title: Android Developer
+email: seok270@gmail.com
+website: https://dailyseok.tistory.com/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+##twitter_username: facespics
+github_username:  jinseokha
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+# linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  1년차 Android 개발자로 새로운 기술을 배우는데에 있어 언제나 흥미를 느끼고 있습니다.
+  반복적인 코드를 설계하는 것을 싫어하며 항상 생각하고 변경하고 있습니다.
+  현재는 <mark>Kotlin</mark> 및 <mark>알고리즘</mark>을 중심으로 공부하고 있습니다.
 
 # Projects Section
 # projects_title: Projects
@@ -39,12 +39,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+# more_content: | # this will include new lines to allow paragraphs
+ # Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+ #  - Rock climbing
+ #  - Gaming
+ #  - Knitting
+ #  - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
