@@ -24,9 +24,9 @@ github_username:  jinseokha
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  1년차 Android 개발자로 새로운 기술을 배우는데에 있어 언제나 흥미를 느끼고 있습니다.
-  반복적인 코드를 설계하는 것을 싫어하며 항상 생각하고 변경하고 있습니다.
-  현재는 <mark>Kotlin</mark> 및 <mark>알고리즘</mark>을 중심으로 공부하고 있습니다.
+  1년차 Android 개발자로 새로운 기술을 배우는데에 있어 언제나 흥미를 느끼고 있습니다.<br/>
+  반복적인 코드를 설계하는 것을 싫어하며 항상 생각하고 변경하고 있습니다.<br/>
+  현재는 <mark>Kotlin</mark> 및 <mark>알고리즘</mark>을 중심으로 공부하고 있습니다.<br/>
 
 # Projects Section
 # projects_title: Projects
